@@ -31,11 +31,6 @@ I'm a **Data Analyst** with a Master's degree in Data Analytics from Clark Unive
 *Clark University, 2023*  
 - Applied decision tree and random forest techniques to solve complex predictive modeling problems, improving model accuracy and robustness.
 
-## 🌱 Involvement
-**Volunteer - Street Cause**  
-*BV Raju Institute of Technology* (January 2019 - March 2020)  
-- Participated in various initiatives to support the underprivileged and contribute to societal betterment.
-
 ## 📜 Certifications
 - **Python Data Structures** - Coursera (2020)
 - **AWS Machine Learning** - Coursera (2021)
