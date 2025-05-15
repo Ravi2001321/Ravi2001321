@@ -1,6 +1,6 @@
 # Hi, I'm Ravi Teja 👋
 
-I'm a **Data Analyst** with a Master's degree in Data Analytics from Clark University. With 6 months of experience at Digital Transformation Expert, I've developed and maintained robust data pipelines, designed and managed databases, constructed data warehouses, and implemented ETL processes. My work has been focused on ensuring data integrity, optimizing performance, and delivering high-quality insights to drive business decisions.
+I'm a **Data Analyst** with a Master's degree in Data Analytics from Clark University. Detail-oriented Data Analyst with 3+ years of experience transforming complex data into actionable insights. Skilled in advanced SQL, Python programming, data visualization, and machine learning. Proven track record of leveraging analytics to improve business performance and support strategic decision-making. Adept at working with cross-functional teams to deliver high-quality data solutions in fast-paced environments.
 
 ## 💻 Technical Skills
 - **Programming Languages:** Python, SQL, R, C
