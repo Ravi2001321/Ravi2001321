@@ -1,6 +1,6 @@
 # Hi, I'm Ravi Teja 👋
 
-I'm a **Data Analyst** with a Master's degree in Data Analytics from Clark University. Detail-oriented Data Analyst transforming complex data into actionable insights. Skilled in advanced SQL, Python programming, data visualization, and machine learning. Proven track record of leveraging analytics to improve business performance and support strategic decision-making. Adept at working with cross-functional teams to deliver high-quality data solutions in fast-paced environments.
+I'm a gradute with a Master's degree in Data Analytics from Clark University. Detail-oriented Data Analyst transforming complex data into actionable insights. Skilled in advanced SQL, Python programming, data visualization, and machine learning. Proven track record of leveraging analytics to improve business performance and support strategic decision-making. Adept at working with cross-functional teams to deliver high-quality data solutions in fast-paced environments.
 
 ## 💻 Technical Skills
 - **Programming Languages:** Python, SQL, R, C
